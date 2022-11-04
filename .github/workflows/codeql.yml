@@ -1,0 +1,1463 @@
+<!-- saved from url=(0060)https://www.interfragua.com.mx/Interfragua/prtPrvPedidos.jsp -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>PrvPedidos Impresion</title>
+ 
+
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="EFSBZ-Y6VEB-XYSHH-6WFQD-YV2CN",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"EFSBZ-Y6VEB-XYSHH-6WFQD-YV2CN";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="xxfwaoixeclfiy3d6mbq-f-38b27270e-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"33","ak.cp":"1279108","ak.ai":parseInt("766469",10),"ak.ol":"0","ak.cr":28,"ak.ipv":4,"ak.proto":"h2","ak.rid":"3c6e6d39","ak.r":45109,"ak.a2":n,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.203.96.0","ak.cport":17375,"ak.gh":"23.32.149.84","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1667494659","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==qNBNza9u1Ea8C72hhJaAzQ7U1SS+IM/cch9QCw9CBq8kTBlKSkdUSWZrd3KbimPdENfws0C8RWoGYNHGYinGfHHP7DTbtjMuLXbJgKpcaRSQUzdtgvVg8ff/iLBgxHsXwBwQMDZvi1OjggehsOKdfvMcxdpcUam6TnD98wa/pXTNkfPBVrnz7gL8wK4Wjh3MhJ69YNJjQIPWQfPJWK9mND8UAkk4k1Xq/H2ny39+IuKQn4upfv8hvbEwDN5n5HS286ByAnXT99kIzOWTVFHn9k6sTX1v0HWwI4QromH1zhkJxIFJfA65zPulwcpmrjh9O+g9cu7Xc7OAbxxzB3iSRB/wl1KRKTaez7VUq935UQfgVvkwesy7k2VmHUJu3Gw9gAGE+mUb6rB/Jba9vlhixDOMiq1Cs4uejXIm9Khb/zg=","ak.pv":"2","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script><link href="./MTYPEDIDO_files/EFSBZ-Y6VEB-XYSHH-6WFQD-YV2CN" rel="preload" as="script"><script id="boomr-scr-as" src="./MTYPEDIDO_files/EFSBZ-Y6VEB-XYSHH-6WFQD-YV2CN" async=""></script><link id="dnsprefetchlink" rel="dns-prefetch" href="https://xxfwaoixeclfiy3d6mbq-f-38b27270e-clientnsv4-s.akamaihd.net/"></head>
+
+<body bgcolor="#EAFFFF">
+
+
+
+
+
+
+
+
+<div class="datos">
+<table width="100%" valign="top" cellspacing="0" cellpadding="0" style="margin-top: 0; margin-bottom: 0">
+  <tbody><tr>
+    <td rowspan="2"><img src="./MTYPEDIDO_files/fg.gif" width="60" height="60" alt="fg.gif"></td>
+    <td colspan="2" align="left"><strong>Servicios en Linea</strong></td>
+    <td align="right">Thursday, November 3, 2022 10:57:40 AM CST</td><td>
+  </td></tr>
+</tbody></table>
+
+
+      <br>
+      <table width="100%" border="1" align="center" cellspacing="1" style="margin-top: 0; margin-bottom: 0; font-size:10pt">
+        <colgroup align="left">
+          <col width="30%">
+          <col width="50%">
+          <col width="20%">
+        </colgroup>
+        <tbody><tr bgcolor="#FFFFFF">
+          <td>FARMACIA GUADALAJARA S.A. DE C.V.</td>
+          <td>PEDIDO CONSIGNADO A FARMACIA GUADALAJARA S.A. DE C.V.</td>
+          <td>PEDIDO No. 980707231 </td>
+        </tr>
+        <tr bgcolor="#FFFFFF">
+          <td>ENRIQUE DIAZ DE LEON 261 NTE. SECTOR HIDALGO</td>
+          <td>
+              
+<!--By I.C.I. Jahaziel Martínez. 11-Nov-2008. Validar dirección de CEDIS-->
+<!--
+//by eduardo covarrubias 07/07/2014
+if (pedido.getPPedNum2() == 1 && !prvPedidos.isCedisConsultado){       
+    prvPedidos.getNvoCedis(pedido.getAlmacen());
+}
+-->
+
+
+<!--=pedido.getPPedNum2() == 1?prvPedidos.getDirNvoCedis():(pedido.getEmpresa().getAlmacenDomicilio() + " " + pedido.getEmpresa().getAlmacenCiudad()) //by eduardo covarrubias 07/07/2014-->
+C.MONTERREY-GARCIA K.11.5 2005 GARCIA NL., MEXICO
+
+          </td>
+          <td>FECHA 03/Nov/22</td>
+        </tr>
+        <tr bgcolor="#FFFFFF">
+          <td>GUADALAJARA, JALISCO</td>
+
+<!--By I.C.I. Jahaziel Martínez. 11-Nov-2008. Validar dirección de CEDIS-->
+<!--          pedido.getPPedNum2() == 1?("COLONIA " + prvPedidos.getColNvoCedis()):(pedido.getEmpresa().getAlmacenDomicilioReferencia()) //by eduardo covarrubias 07/07/2014-->
+          <td>COLONIA SIN NOMBRE</td>
+
+          <td></td>
+        </tr>
+        <tr bgcolor="#FFFFFF">
+
+<!--By I.C.I. Jahaziel Martínez. 11-Nov-2008. Validar dirección de CEDIS-->
+          <!--<td>TEL/FAX =pedido.getPPedNum2() == 1?"":(pedido.getEmpresa().getFax())%></td>  //by eduardo covarrubias 07/07/2014-->
+          <td></td>
+
+<!--By I.C.I. Jahaziel Martínez. 11-Nov-2008. Validar dirección de CEDIS-->
+          <!--<td>CP =pedido.getPPedNum2() == 1?prvPedidos.getCpNvoCedis():String.valueOf(pedido.getEmpresa().getAlmacenCp())%></td> //by eduardo covarrubias 07/07/2014 -->
+          <td>CP 66000</td>
+
+          <td><b>SUBTOTAL : 5,228,070.12</b></td>
+        </tr>
+        <tr bgcolor="#FFFFFF">
+          <td>COMPRADOR : JOSE ANTONIO AVALOS </td>
+          <td colspan="2">PEDIDOS PENDIENTES :  2131119</td>
+        </tr>
+      </tbody></table>
+      <br>
+      <table width="100%" border="1" align="center" cellspacing="1" style="margin-top: 0; margin-bottom: 0 ; font-size:10pt">
+        <colgroup align="left">
+          <col width="50%">
+          <col width="25%">
+          <col width="25%">
+        </colgroup>
+        <tbody><tr bgcolor="#FFFFFF">
+          <td width="200">PROVEEDOR No. : 4025 </td>
+          <td rowspan="5" valign="top">AVISO : <br></td>
+          <td rowspan="5" valign="top">OBSERVACIONES : <br></td>
+        </tr>
+        <tr bgcolor="#FFFFFF">
+          <td>ASOFARMA DE MEXICO, S.A. DE C.V. </td>
+        </tr>
+        <tr bgcolor="#FFFFFF">
+          <td>CALZ.MEXICO XOCHIMILCO NO.43 </td>
+        </tr>
+        <tr bgcolor="#FFFFFF">
+          <td>SAN LORENZO HUIPULCO </td>
+        </tr>
+        <tr bgcolor="#FFFFFF">
+          <td>TEL/FAX 015554248600 C.P. 14370 </td>
+        </tr>
+      </tbody></table>
+      <br>
+
+      
+          <table width="100%" border="1" cellspacing="1" align="center" style="margin-top: 0; margin-bottom: 0; font-size:10pt">
+            <caption align="center"><strong>Productos del Pedido</strong></caption>
+            <tbody><tr>
+              <th bgcolor="#0000D2"><font color="white"><b>PRODUCTO</b></font></th>
+              <th bgcolor="#0000D2"><font color="white"><b>CUP</b></font></th>
+              <th bgcolor="#0000D2"><font color="white"><b>DESCRIPCION</b></font></th>
+              <th bgcolor="#0000D2"><font color="white"><b>REFCIA.</b></font></th>
+              <th bgcolor="#0000D2"><font color="white"><b>CAJAS</b></font></th>
+              <th bgcolor="#0000D2"><font color="white"><b>CANT.</b></font></th>
+              <th bgcolor="#0000D2"><font color="white"><b>S/CGO</b></font></th>
+              <th bgcolor="#0000D2"><font color="white"><b>BASE</b></font></th>
+              <th bgcolor="#0000D2"><font color="white"><b>%DESC.</b></font></th>
+              <th bgcolor="#0000D2"><font color="white"><b>PRECIO</b></font></th>
+              <th bgcolor="#0000D2"><font color="white"><b>PLZO.</b></font></th>
+            </tr>
+            </tbody><colgroup>
+              <col width="8%">
+              <col width="8%">
+              <col width="20%">
+              <col width="8%">
+              <col width="8%">
+              <col width="8%">
+              <col width="8%">
+              <col width="8%">
+              <col width="8%">
+              <col width="8%">
+              <col width="8%">
+            </colgroup>
+            
+            <tbody><tr bgcolor="#FFFFFF">
+              <td align="right">618551</td>
+              <td align="left">7501871720422</td>
+              <td align="left">ADECUR 2 MG 30 TABS</td>
+              <td align="right">900503</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">72</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">618560</td>
+              <td align="left">7501871720446</td>
+              <td align="left">ADECUR 5 MG 30 TABS</td>
+              <td align="right">900504</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">47</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">1311204</td>
+              <td align="left">7730979097772</td>
+              <td align="left">ADITRAL 200MG 14 TAB CAJA</td>
+              <td align="right">902077</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">190</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">1311190</td>
+              <td align="left">7730979097789</td>
+              <td align="left">ADITRAL 200MG 28 TAB CAJA</td>
+              <td align="right">902078</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">31</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">1311212</td>
+              <td align="left">7730979097765</td>
+              <td align="left">ADITRAL 200MG 7 TAB CAJA</td>
+              <td align="right">902076</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">21</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">1096915</td>
+              <td align="left">7501871721283</td>
+              <td align="left">ANUAR ASF 0.5MG 4 COMPRIMIDOS</td>
+              <td align="right">null</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">8</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">930482</td>
+              <td align="left">7501871720750</td>
+              <td align="left">ARLUY 200MG 30 CAPS</td>
+              <td align="right">909610</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">216</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">1169475</td>
+              <td align="left">7730979094092</td>
+              <td align="left">ASOFLON 0.4MG 30 CAP L PROLONG</td>
+              <td align="right">951044</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">109</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">1287427</td>
+              <td align="left">7730979097192</td>
+              <td align="left">ASOFLON DUO 0.50/0.40MG 30CAP CJ</td>
+              <td align="right">902075</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">569</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">1186850</td>
+              <td align="left">7730979093026</td>
+              <td align="left">CLAUTER 100 MG 30 TABLETAS</td>
+              <td align="right">909679</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">134</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">1186841</td>
+              <td align="left">7730979093019</td>
+              <td align="left">CLAUTER 50 MG 30 TABLETAS</td>
+              <td align="right">909678</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">38</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">1210165</td>
+              <td align="left">7730979095464</td>
+              <td align="left">COMENTER 15MG 10 TAB</td>
+              <td align="right">951113</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">166</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">1004212</td>
+              <td align="left">7501871720934</td>
+              <td align="left">COMENTER 30MG 10 COMP</td>
+              <td align="right">901111</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">213</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">1004204</td>
+              <td align="left">7501871720941</td>
+              <td align="left">COMENTER 30MG 30 COMP</td>
+              <td align="right">901112</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">30</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">965227</td>
+              <td align="left">7501871720767</td>
+              <td align="left">CONTUMAX 255GR 1 FRASCO POLVO</td>
+              <td align="right">909643</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">276</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">979902</td>
+              <td align="left">7501871720774</td>
+              <td align="left">CONTUMAX 255GR 15 SOBRES 17G C/U</td>
+              <td align="right">909659</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">1032</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">1229214</td>
+              <td align="left">7730979095969</td>
+              <td align="left">COPINAR 100MG 28 TABLETAS CAJA</td>
+              <td align="right">951187</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">88</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">1229222</td>
+              <td align="left">7730979095983</td>
+              <td align="left">COPINAR 200MG 28 TABLETAS CAJA</td>
+              <td align="right">951189</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">15</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">1229206</td>
+              <td align="left">7730979095938</td>
+              <td align="left">COPINAR 50MG 14 TABLETAS CAJA</td>
+              <td align="right">951184</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">122</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">1331981</td>
+              <td align="left">7730979097994</td>
+              <td align="left">DEMUS 100000UI 1 CAPS CAJA</td>
+              <td align="right">902361</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">51</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">1379615</td>
+              <td align="left">7730979098007</td>
+              <td align="left">DEMUS 100000UI 2 CAPS CAJA</td>
+              <td align="right">951518</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">197</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">1029045</td>
+              <td align="left">7501871721016</td>
+              <td align="left">DOSIER 2.5MG 30 COMPRIMIDOS</td>
+              <td align="right">901237</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">11</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">1029053</td>
+              <td align="left">7501871721023</td>
+              <td align="left">DOSIER 5MG 30 COMPRIMIDOS</td>
+              <td align="right">901239</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">33</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">1303228</td>
+              <td align="left">7730979097680</td>
+              <td align="left">DUBILA 5MG 14 TAB CAJA</td>
+              <td align="right">902141</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">34</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">1303236</td>
+              <td align="left">7730979097697</td>
+              <td align="left">DUBILA 5MG 28 TAB CAJA</td>
+              <td align="right">902142</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">119</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">982385</td>
+              <td align="left">7501871720880</td>
+              <td align="left">EUTEBROL 10MG 30 COMP</td>
+              <td align="right">909649</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">50</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">1210149</td>
+              <td align="left">7730979095341</td>
+              <td align="left">EUTEBROL 20MG 30 TAB</td>
+              <td align="right">901911</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">7</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">1334352</td>
+              <td align="left">7730979098182</td>
+              <td align="left">FAPRIS 100MG 30TAB LIB/PROL CAJA</td>
+              <td align="right">902138</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">6</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">1229052</td>
+              <td align="left">7730979095914</td>
+              <td align="left">FILARIN 100MG 3 COMPRIMIDOS CAJA</td>
+              <td align="right">951165</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">1</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">1229044</td>
+              <td align="left">7730979095907</td>
+              <td align="left">FILARIN 20MG 30 COMPRIMIDOS CAJA</td>
+              <td align="right">951164</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">3</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">882356</td>
+              <td align="left">7501871720606</td>
+              <td align="left">GESLUTIN 100MG 30 CAP ORAL/VAGIN</td>
+              <td align="right">900496</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">216</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">979961</td>
+              <td align="left">7501871720620</td>
+              <td align="left">GESLUTIN 200MG 15 CAP ORAL/VAGIN</td>
+              <td align="right">900954</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">792</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">1254758</td>
+              <td align="left">7501871721474</td>
+              <td align="left">GESLUTIN 400MG 15CAP ORAL/VAG CJ</td>
+              <td align="right">949754</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">1166298</td>
+              <td align="left">7841141002828</td>
+              <td align="left">ILTUX 20MG 14 TAB</td>
+              <td align="right">951027</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">43</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">1166301</td>
+              <td align="left">7841141002699</td>
+              <td align="left">ILTUX 20MG 28 TAB</td>
+              <td align="right">951024</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">97</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">1166310</td>
+              <td align="left">7841141002835</td>
+              <td align="left">ILTUX 40MG 14 TAB</td>
+              <td align="right">951025</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">44</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">1166328</td>
+              <td align="left">7841141002712</td>
+              <td align="left">ILTUX 40MG 28 TAB</td>
+              <td align="right">951026</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">96</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">1201425</td>
+              <td align="left">7841141003924</td>
+              <td align="left">ILTUX2HCT 20MG/12,5MG 28 TAB</td>
+              <td align="right">951058</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">42</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">1201417</td>
+              <td align="left">7841141003917</td>
+              <td align="left">ILTUX2HCT 40MG/12,5MG 14 TAB</td>
+              <td align="right">951057</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">32</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">1201409</td>
+              <td align="left">7841141003900</td>
+              <td align="left">ILTUX2HCT 40MG/12,5MG 28 TAB</td>
+              <td align="right">951056</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">127</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">1201387</td>
+              <td align="left">7841141003894</td>
+              <td align="left">ILTUX2HCT 40MG/25MG 14 TAB</td>
+              <td align="right">951054</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">21</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">1296744</td>
+              <td align="left">7730979097154</td>
+              <td align="left">LIBERFEM 2MG/0.03MG 21 TAB CJA</td>
+              <td align="right">951327</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">312</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">1241915</td>
+              <td align="left">7501871730728</td>
+              <td align="left">LOMEXIN 1000MG 2 OVULOS+4DEDILES</td>
+              <td align="right">null</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">44</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">900648</td>
+              <td align="left">7501871730766</td>
+              <td align="left">LOMEXIN 2GR/100GR 30GR CREMA TUB</td>
+              <td align="right">907016</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">170</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">1240927</td>
+              <td align="left">7841141004198</td>
+              <td align="left">MICTASOL 400/100MG 16 COMP CAJA</td>
+              <td align="right">907013</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">351</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">1308904</td>
+              <td align="left">7730979097673</td>
+              <td align="left">MYRBETRIC 25MG 30 TAB LIB/PROLON</td>
+              <td align="right">null</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">1</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">1308890</td>
+              <td align="left">7730979097666</td>
+              <td align="left">MYRBETRIC 50MG 30 TAB LIB/PROLON</td>
+              <td align="right">null</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">68</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">1073184</td>
+              <td align="left">7501871721207</td>
+              <td align="left">NOVOVARTALON 15 SOB POLVO</td>
+              <td align="right">909666</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">27</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">1073192</td>
+              <td align="left">7501871721214</td>
+              <td align="left">NOVOVARTALON 30 SOB POLVO</td>
+              <td align="right">909665</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">172</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">608149</td>
+              <td align="left">7501871730315</td>
+              <td align="left">NULYTELY 4 SOBRES POLVO</td>
+              <td align="right">909621</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">190</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">914568</td>
+              <td align="left">7501871730339</td>
+              <td align="left">NULYTELY CEREZA 4 SOB POLVO</td>
+              <td align="right">909623</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">20</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">906557</td>
+              <td align="left">7501871730322</td>
+              <td align="left">NULYTELY LIMA LIMON 4 SOB POLVO</td>
+              <td align="right">909624</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">80</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">1192744</td>
+              <td align="left">7841141003733</td>
+              <td align="left">PRIKUL 150 MG 28 CAPSULAS</td>
+              <td align="right">909638</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">2</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">1253042</td>
+              <td align="left">7841141004303</td>
+              <td align="left">PRIKUL 50MG 28 CAPSULAS CAJA</td>
+              <td align="right">951252</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">159</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">1192779</td>
+              <td align="left">7841141003801</td>
+              <td align="left">PRIKUL 75 MG 14 CAPSULAS</td>
+              <td align="right">909638</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">40</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">1192760</td>
+              <td align="left">7841141003726</td>
+              <td align="left">PRIKUL 75 MG 28 CAPSULAS</td>
+              <td align="right">905084</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">136</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">924407</td>
+              <td align="left">7501871730155</td>
+              <td align="left">SUPRAHYAL 25MG 2.5ML JGA SOL INY</td>
+              <td align="right">900507</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">21</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">900206</td>
+              <td align="left">7501871720675</td>
+              <td align="left">TAFIROL 1GR 20 TAB</td>
+              <td align="right">909631</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">591</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">1003267</td>
+              <td align="left">7501871720668</td>
+              <td align="left">TAFIROL AC 500MG/50MG 15 TAB</td>
+              <td align="right">901143</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">600</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">959294</td>
+              <td align="left">7501871720682</td>
+              <td align="left">TAFIROL FLEX 300MG/250MG 30 TAB</td>
+              <td align="right">909632</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">216</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">1166336</td>
+              <td align="left">7841141003528</td>
+              <td align="left">TAFITRAM 325/37.5MG 10 COMP</td>
+              <td align="right">905012</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">35</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">1166344</td>
+              <td align="left">7841141003436</td>
+              <td align="left">TAFITRAM 325/37.5MG 20 COMP</td>
+              <td align="right">905011</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">200</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">838632</td>
+              <td align="left">7501871720507</td>
+              <td align="left">TAVOR 5 MG 30 TABLETAS</td>
+              <td align="right">900493</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">155</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">881554</td>
+              <td align="left">7501871720538</td>
+              <td align="left">TAVOR CR 10MG 10 TAB LIB PROLONG</td>
+              <td align="right">900491</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">38</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">1299492</td>
+              <td align="left">7730979097321</td>
+              <td align="left">TIM ASF XR 300MG 30TAB L/PRL CJA</td>
+              <td align="right">902063</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">1299484</td>
+              <td align="left">7730979097338</td>
+              <td align="left">TIM ASF XR 50MG 30TAB L/PROL CJA</td>
+              <td align="right">902064</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">16</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">930474</td>
+              <td align="left">7501871720644</td>
+              <td align="left">TREXEN DUO 100-400MG 7CAP VAGINL</td>
+              <td align="right">900834</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">648</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">1230646</td>
+              <td align="left">7501871721450</td>
+              <td align="left">ULTRAC 1.43G 30CAP CAJA</td>
+              <td align="right">907012</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">699</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">1331965</td>
+              <td align="left">7730979098090</td>
+              <td align="left">URIZIA 6MG/0.4MG 30 TAB CJA</td>
+              <td align="right">907046</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">179</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">979953</td>
+              <td align="left">7501871720590</td>
+              <td align="left">VARTALON COMP 1500/1200MG 30 SOB</td>
+              <td align="right">900653</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">144</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">924393</td>
+              <td align="left">7501871720552</td>
+              <td align="left">VARTALON COMPOSITUM POLVO 15 SOB</td>
+              <td align="right">900486</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">1</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">1295071</td>
+              <td align="left">7730979097284</td>
+              <td align="left">VEDIPAL 450/50MG 30 TABS CAJA</td>
+              <td align="right">null</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">14</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">1023063</td>
+              <td align="left">7730979097642</td>
+              <td align="left">VESICARE 10MG 10 TAB</td>
+              <td align="right">907029</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">18</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">1023071</td>
+              <td align="left">7730979097628</td>
+              <td align="left">VESICARE 5 MG 10 TAB CAJA</td>
+              <td align="right">907027</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">16</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">1086235</td>
+              <td align="left">7730979097635</td>
+              <td align="left">VESICARE 5 MG 20 TAB</td>
+              <td align="right">907028</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">23</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">1314904</td>
+              <td align="left">7730979097833</td>
+              <td align="left">XUMER 120MG 7 TABLETAS CAJA</td>
+              <td align="right">902158</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">133</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">1346610</td>
+              <td align="left">7730979098373</td>
+              <td align="left">XUMER 60MG 28 TABLETAS CAJA</td>
+              <td align="right">902164</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">22</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">1314882</td>
+              <td align="left">7730979097840</td>
+              <td align="left">XUMER 90MG 14 TABLETAS CAJA</td>
+              <td align="right">902380</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">139</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">1314890</td>
+              <td align="left">7730979097857</td>
+              <td align="left">XUMER 90MG 28 TABLETAS CAJA</td>
+              <td align="right">902166</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">33</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">1260693</td>
+              <td align="left">7501871721498</td>
+              <td align="left">ZOLTUM 20MG 14 COMP CAJA</td>
+              <td align="right">951319</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">4</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">1049771</td>
+              <td align="left">7501871720958</td>
+              <td align="left">ZOLTUM 20MG 28 TAB</td>
+              <td align="right">901186</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">8</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#99CCFF">
+              <td align="right">1260685</td>
+              <td align="left">7501871721481</td>
+              <td align="left">ZOLTUM 40MG 14 COMP CAJA</td>
+              <td align="right">951320</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">4</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+            
+            <tr bgcolor="#FFFFFF">
+              <td align="right">1292838</td>
+              <td align="left">7501871721504</td>
+              <td align="left">ZOLTUM 40MG 28 TAB CAJA</td>
+              <td align="right">901184</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">33</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">10.00</td>
+              <td align="right">&nbsp;</td>
+              <td align="right">60</td>
+            </tr>
+            
+             <!-- prods -->
+
+          </tbody></table>
+        
+        <br>
+        <table width="100%" border="1" cellspacing="1" align="center" style="margin-top: 0; margin-bottom: 0; font-size:10pt">
+          <caption align="center"><strong>LISTADO DE PRODUCTOS CANDIDATOS A CANCELARSE</strong></caption>
+          <tbody><tr>
+            <th bgcolor="#0000D2"><font color="white"><b>PRODUCTO</b></font></th>
+            <th bgcolor="#0000D2"><font color="white"><b>DESCRIPCION</b></font></th>
+          </tr>
+          </tbody><colgroup>
+            <col width="8%">
+            <col width="20%">
+          </colgroup>
+          
+          <tbody><tr bgcolor="#FFFFFF">
+            <td align="right">618560</td>
+            <td align="left">ADECUR 5 MG 30 TABS</td>
+          </tr>
+          
+          <tr bgcolor="#99CCFF">
+            <td align="right">888516</td>
+            <td align="left">TREXEN 100MG 7 CAPSULAS VAGINAL</td>
+          </tr>
+          
+          <tr bgcolor="#FFFFFF">
+            <td align="right">900214</td>
+            <td align="left">VARTALON GRANULADO 15 SOB</td>
+          </tr>
+          
+          <tr bgcolor="#99CCFF">
+            <td align="right">918385</td>
+            <td align="left">LERTUS 75MG 20 CAP L/PROLONG CJ</td>
+          </tr>
+          
+          <tr bgcolor="#FFFFFF">
+            <td align="right">1096907</td>
+            <td align="left">ANUAR ASF 0.5MG 2 COMPRIMIDOS</td>
+          </tr>
+          
+          <tr bgcolor="#99CCFF">
+            <td align="right">1096915</td>
+            <td align="left">ANUAR ASF 0.5MG 4 COMPRIMIDOS</td>
+          </tr>
+          
+          <tr bgcolor="#FFFFFF">
+            <td align="right">1096923</td>
+            <td align="left">ANUAR ASF 0.5MG 8 COMPRIMIDOS</td>
+          </tr>
+          
+          <tr bgcolor="#99CCFF">
+            <td align="right">1308904</td>
+            <td align="left">MYRBETRIC 25MG 30 TAB LIB/PROLON</td>
+          </tr>
+           <!-- prods -->
+
+        </tbody></table>
+
+        
+
+        <!--<br><br>
+        <font color="#0000FF">
+        <a style="font-size:10pt">!! A V I S O  I M P O R T A N T E !! </a><br><br>
+        <a style="font-size:10pt">- NOTIFICAR CAMBIOS DE PRECIO PERSONALMENTE A TU COMPRADOR Y RECABAR ACUSE DE RECIBO, NO CORREO NO FAX. INCLUIR EN LISTAS CODIGO INTERNO FG Y REFERENCIA DEL PROVEEDOR </a><br>
+        <a style="font-size:10pt">- ENTREGAR MERCANCIAS DE ACUERDO A POLITICAS DE CADUCIDAD DE FG, PREGUNTA A TU COMPRADOR</a><br>
+        <a style="font-size:10pt">- ACUDIR SEMANALMENTE A NUESTRO ALMACEN DE DEVOLUCIONES (GARIBALDI NO. 1468, GDL, JAL).  </a><br>
+        </font>
+        <br><br>-->
+        
+    <hr>
+    
+</div>
+<br>
+
+
+
+
+</body></html>
